@@ -54,3 +54,6 @@ if __name__ == "__main__":
     ventana = App()
     ventana.show()
     sys.exit(app.exec())
+
+    ¿que propiedades de la programacion orientada a objetos identifica?
+    
